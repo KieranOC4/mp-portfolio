@@ -65,10 +65,10 @@
     background-color: #c70101;
   }
   #mainNav.navbar-shrink .navbar-brand {
-    color: #64a19d;
+    color: white;
   }
   #mainNav.navbar-shrink .nav-link {
-    color: #64a19d ;
+    color: white ;
     padding: 1.5rem 1.5rem 1.25rem;
     border-bottom: 0.25rem solid transparent;
   }
@@ -79,9 +79,9 @@
     color: #467370;
   }
   #mainNav.navbar-shrink .nav-link.active {
-    color: #64a19d;
+    color: white;
     outline: none;
-    border-bottom: 0.25rem solid #64a19d;
+    border-bottom: 0.25rem solid white;
   }
 }
 
@@ -198,7 +198,7 @@
     padding: 5rem;
   }
   .projects-section .project-text hr {
-    border-color: #64a19d;
+    border-color: white;
     border-width: .25rem;
     width: 30%;
   }
@@ -230,7 +230,7 @@
 
 .contact-section .card {
   border: 0;
-  border-bottom: 0.25rem solid #64a19d;
+  border-bottom: 0.25rem solid white;
 }
 
 .contact-section .card h4 {
@@ -241,7 +241,7 @@
 }
 
 .contact-section .card hr {
-  border-color: #64a19d;
+  border-color: red;
   border-width: 0.25rem;
   width: 3rem;
 }
@@ -274,7 +274,7 @@ body {
 }
 
 a {
-  color: #64a19d;
+  color: black;
 }
 
 a:focus, a:hover {
@@ -291,7 +291,7 @@ a:focus, a:hover {
 }
 
 .text-primary {
-  color: #64a19d !important;
+  color: black!important;
 }
 
 footer {
