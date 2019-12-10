@@ -73,7 +73,7 @@
     border-bottom: 0.25rem solid transparent;
   }
   #mainNav.navbar-shrink .nav-link:hover {
-    color: #64a19d;
+    color: white;
   }
   #mainNav.navbar-shrink .nav-link:active {
     color: #467370;
@@ -99,7 +99,7 @@
 }
 
 .masthead h1 {
-  font-family: 'Lato';
+  font-family: 'Overpass';
   font-size: 2.5rem;
   line-height: 2.5rem;
   letter-spacing: 0.8rem;
